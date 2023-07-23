@@ -1,14 +1,8 @@
-import base64
 import requests
 
 # Set up your credentials
-user = 'ar.solutioner@gmail.com'
-api_token = 'ATATT3xFfGF0wNTYnQDS41rli3fvF_rx1t0iu71t9GVix1eJe5ket6SsgBO5eUaw3V5SkqIZhsvKto7r80R_tFQJwHMLN12WoD9GSGhB5ALg-Se4kKduwzRNnIBR2FsfJbvkztbrnx9QsqZStNbS8H_z9Z3nJaDu6WP20Iv63VPDcMyCIInurEw=B6BA136E' # Replace this with your actual token
+credentials = 'YXIuc29sdXRpb25lckBnbWFpbC5jb206QVRBVFQzeEZmR0YwWFNFLU9OU0lvODNjeDdNU1VkWVJTYjdBQ2I4Vkg1SHo2OTM3NHZqM1c2YXJ0eU5icnNGNl9ZaEZZaGhudU1Vb3VRMEVpTmU0MEppMEpjV1I3czdtRmZuYVhaUndJeF9fVXgxNXhtdDFxM1B5UmZDZzY5UUFtanBaNnNkNUVxLUN4MzAtcmYtQUJUMDhORk1ERFk1UGFIZUNIeDZLU2g2a3A5c3Rfb3hOQzVzPTg3RUU5RjIw'
 site = 'https://arsolutioner.atlassian.net'
-
-# Encode the user:api_token to base64
-credentials = base64.b64encode(f"{user}:{api_token}".encode()).decode()
-print(credentials)
 
 # Prepare headers for the request
 headers = {
