@@ -3,7 +3,7 @@ import requests
 
 # Set up your credentials
 user = 'ar.solutioner@gmail.com'
-api_token = 'ATATT3xFfGF0yGS-A_Gn2HAnii-dcjH4ZMcHVcJVnF3vmI8mue8dO7R6aw9xWPeTsnpC599qa-slhk5Bh_6uXUk-2SUcQyG9fo1chgApe56ofgwY251NF7080JzHj0Wo3mcVCbjOZTMtzpoi0KlnvDE0JPPs7SZ9QyIRjgsHZdGDYglIUGwUT6E=97A1304A' # Replace this with your actual token
+api_token = 'ATATT3xFfGF0e_bkY-v5HySPJ-7eLyE_Yl1Lvh2BOFcwRFEk-AOWOyY5reXVG7CS8zG8dcrxVe971gCG8fa7kWCY6GnGM-_7AlBsRKRIlJHmbN01-WWMCLCpq6UzTDeyUjmfeCUyCfOPJlyJ7nWz8S_kCcFLQbjSE13-jnBFrrxABRc3l2z9zAA=7D01F4E1' # Replace this with your actual token
 site = 'https://arsolutioner.atlassian.net'
 
 # Encode the user:api_token to base64
