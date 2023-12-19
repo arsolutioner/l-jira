@@ -2,7 +2,7 @@ import requests
 
 # Set up your credentials
 credentials = 'YXIuc29sdXRpb25lckBnbWFpbC5jb206QVRBVFQzeEZmR0YwWFNFLU9OU0lvODNjeDdNU1VkWVJTYjdBQ2I4Vkg1SHo2OTM3NHZqM1c2YXJ0eU5icnNGNl9ZaEZZaGhudU1Vb3VRMEVpTmU0MEppMEpjV1I3czdtRmZuYVhaUndJeF9fVXgxNXhtdDFxM1B5UmZDZzY5UUFtanBaNnNkNUVxLUN4MzAtcmYtQUJUMDhORk1ERFk1UGFIZUNIeDZLU2g2a3A5c3Rfb3hOQzVzPTg3RUU5RjIw'
-site = 'https://arsolutioner.atlassian.net'
+site = 'https://appsflyer.atlassian.net'
 
 # Prepare headers for the request
 headers = {
