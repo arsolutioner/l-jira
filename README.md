@@ -1,6 +1,2 @@
 # l-jira
-![202501270106](https://github.com/user-attachments/assets/085c680c-1578-4fd9-aae6-e90ce41f12d2)
-
-
-https://github.com/user-attachments/assets/c90bde0c-0200-4c28-a84f-19188d4501ff
-
+![2025012701061-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/952bef3b-f892-47ff-a4d6-fa50e644e0c2)
